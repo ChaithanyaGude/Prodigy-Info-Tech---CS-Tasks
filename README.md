@@ -43,4 +43,4 @@ Here’s an overview of some significant tasks and projects included in this rep
 3. Secure System Design: Assisted in designing and implementing secure configurations for systems and applications.
 
 
-4. Cyber Threat Monitoring: Set up and monitored security information and event management (SIEM) systems to detect potential threats.
+4. Cyber Threat Monitoring: Set up and monitored security information and event management (SIEM) systems to detect potential threats
