@@ -1,5 +1,4 @@
-# Caesar Cipher Implementation
-# The program allows encryption and decryption of text using the Caesar Cipher algorithm.
+
 
 def caesar_cipher(message, shift, mode='encrypt'):
     """
